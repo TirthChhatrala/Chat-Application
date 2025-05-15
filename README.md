@@ -1,34 +1,84 @@
-# Terminal to Browser Chat App 🧑‍💻💬
+# 💬 Chat Application
 
-A real-time chat application built with **Node.js**, **Socket.IO**, and **Express.js** that allows users to:
-
-- Send and receive messages in the browser.
-- Broadcast messages from the server terminal to all connected clients.
-- Switch between **dark** and **light** mode.
-- Enjoy a 100% responsive layout without scrollbars.
+A real-time chat application built with **Node.js**, **Express.js**, and **Socket.IO**. It enables communication between browser clients and also allows the server to send messages from the **terminal** directly to all connected clients in real-time.
 
 ---
 
-## 🌐 Live Preview
 
-> Clone and run locally — or deploy on platforms like Heroku, Render, or Vercel.
-
----
 
 ## 🚀 Features
 
-- Real-time messaging with Socket.IO.
-- Terminal-to-browser message broadcasting.
-- Server messages are styled and prefixed for clarity.
-- Fully responsive and scroll-free layout.
-- Dark/Light theme toggle support.
+- ✅ Real-time messaging using Socket.IO  
+- ✅ Messages from server terminal shown in chat  
+- ✅ Dark/Light mode toggle for the UI  
+- ✅ Fully responsive layout (no scrollbars)  
+- ✅ Styled differentiation between server and client messages  
 
 ---
 
-## 📦 Installation
+
+
+## 🛠️ Getting Started
+
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TirthChhatrala/Chat-Application.git
+git clone https://github.com/your-username/terminal-to-browser-chat.git
 cd terminal-to-browser-chat
+````
+
+### 2. Install Dependencies
+
+```bash
 npm install
+```
+
+### 3. Run the Application
+
+```bash
 node server.js
+```
+
+Then open your browser and go to:
+🔗 [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 💻 Terminal Messaging
+
+While the server is running, you can type messages directly in the terminal. These messages will be broadcast to all connected clients and shown in the browser interface as **server messages**.
+
+---
+
+## 🌗 Theme Toggle
+
+Use the **Toggle Theme** button in the browser to switch between:
+
+* 🌞 Light Mode
+* 🌚 Dark Mode
+
+---
+
+
+
+## 📦 Dependencies
+
+* [Express](https://www.npmjs.com/package/express) – Fast, unopinionated, minimalist web framework for Node.js
+* [Socket.IO](https://www.npmjs.com/package/socket.io) – Real-time, bidirectional and event-based communication
+
+---
+
+
+
+## 📜 License
+
+MIT © 2025 [Chhatrala Tirth](https://github.com/your-username)
+
+---
+
+## 👤 Author
+
+**Chhatrala Tirth**
+GitHub: [@TirthChhatrala](https://github.com/TirthChhatrala)
+
+---
