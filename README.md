@@ -23,8 +23,8 @@ A real-time chat application built with **Node.js**, **Express.js**, and **Socke
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/terminal-to-browser-chat.git
-cd terminal-to-browser-chat
+git clone https://github.com/TirthChhatrala/Chat-Application.git
+cd Chat-Application
 ````
 
 ### 2. Install Dependencies
@@ -80,9 +80,3 @@ MIT © 2025 [Chhatrala Tirth](https://github.com/your-username)
 
 **Chhatrala Tirth**
 GitHub: [@TirthChhatrala](https://github.com/TirthChhatrala)
-
-<<<<<<< HEAD
----
-=======
----
->>>>>>> 1aa6e23 (Initial commit)
