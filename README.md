@@ -28,7 +28,7 @@ A real-time chat application built with **Node.js**, **Socket.IO**, and **Expres
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/terminal-to-browser-chat.git
+git clone https://github.com/TirthChhatrala/Chat-Application.git
 cd terminal-to-browser-chat
 npm install
 node server.js
