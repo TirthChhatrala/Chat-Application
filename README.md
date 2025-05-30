@@ -36,7 +36,7 @@ npm install
 ### 3. Run the Application
 
 ```bash
-node server.js
+npm start
 ```
 
 Then open your browser and go to:
